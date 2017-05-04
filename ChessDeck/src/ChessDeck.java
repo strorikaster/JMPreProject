@@ -1,4 +1,3 @@
-import java.awt.Color;
 /**
  * Created by A.Zotov on 03.05.2017.
  */
